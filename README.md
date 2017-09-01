@@ -1,11 +1,13 @@
 # selenium_scrap_python_server
 
 ## Usage
+
 This little project setup a minimum python web server for scraping a website url, expecially for those with heavy js interactions.
 
 
 ## Installation
 
+```
 pip install selenium
 pip install pyvirtualdisplay
 
@@ -20,6 +22,7 @@ yum install xvfb
 
 curl -SO https://github.com/mozilla/geckodriver/releases/download/v0.11.1/geckodriver-v0.11.1-linux64.tar.gz
 # untar this to the path of Firefox executable_path
+```
 
 
 ## 中文介绍
